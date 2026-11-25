@@ -1,0 +1,9 @@
+# Local secrets (ntfy topic, hotspot password) - copy config.example.h instead
+include/config.h
+
+# Build output and local tooling
+.pio/
+.venv/
+.vscode/
+*.zip
+.DS_Store
