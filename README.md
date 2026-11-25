@@ -19,6 +19,8 @@ Remembering whether you've *already* taken a daily pill is surprisingly hard, an
 
 ## Stack
 
+Iterated with Claude
+
 C++ (Arduino framework on ESP-IDF/FreeRTOS) · PlatformIO · Adafruit NeoPixel · WiFiManager · ESP32 `WebServer`, `HTTPClient`, `Preferences`, mDNS · ntfy.sh · iOS Shortcuts
 
 ```
